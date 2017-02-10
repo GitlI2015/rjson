@@ -1,0 +1,6 @@
+[package]
+name = "jsonParser"
+version = "0.1.0"
+authors = ["GitlI2015 <lijh2015@mail.ustc.edu.cn>"]
+
+[dependencies]
